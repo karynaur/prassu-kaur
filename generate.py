@@ -31,11 +31,11 @@ prompt_ids = tokenizer.encode(prompt)
 inp = tensor(prompt_ids)[None]#.cuda()
 preds=learn.model.generate(inp,
                            do_sample=True, 
-                           max_length=40, 
+                           max_length=30, 
                            min_length=5,
                            top_k=40,
                            num_return_sequences=1)
-poem=tokenizer.decode(preds[0].cpu().tolist())
+poem=tokenizer.decode(preds[0].cpu().tolist())+'.'
 
 
 def get_pic():
