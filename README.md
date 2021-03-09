@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Prasanna Devadiga - [@Prasanna280](https://twitter.com/Prasanna280) - prasanna2019@iiitkottayam.ac.in
-
+Aditya Srinivas Menon - [@karynaur](https://twitter.com/MenonSrinivas) - adityasrinivas20bcs8@iiitkottayam.ac.in
 
 
 
